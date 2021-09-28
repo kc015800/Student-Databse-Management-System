@@ -49,5 +49,5 @@ the above features also supports CRUD operations
   <p align=center> Attendance Details</p>
   </div>
 <!--  </div> -->
-<p>This project is <a href="https://github.com/kc015800/Student-Databse-Management-System/blob/main/LICENSE">licensed</a> under Apache-2.0 copyright</p>
+<p>This project is <a href="https://github.com/kc015800/Student-Databse-Management-System/blob/main/LICENSE">licensed</a> Apache License 2.0. Copyright</p>
 <p> 2021 &copy; Chethan K (kc015800)</p>
